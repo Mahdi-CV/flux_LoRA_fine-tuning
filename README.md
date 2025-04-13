@@ -1,8 +1,8 @@
-# flux_LoRA_fine-tuning
-
-🐾 **Fine-Tuning FLUX.1 to Learn Mochicat**
+# 🐾 **Fine-Tuning FLUX.1 to Learn Mochicat**
 
 This project showcases how I fine-tuned the `FLUX.1-dev` image generation model using the [ai-toolkit](https://github.com/ostris/ai-toolkit) to teach it a new character: **Mochicat**, a cute cartoon cat that the original model was unfamiliar with.
+
+Special thanks to [@1y33](https://github.com/1y33) for being my brainstorming buddy and researching available tools for fine-tuning this model. 
 
 ### 🎯 Goal
 
